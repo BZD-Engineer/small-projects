@@ -1,0 +1,8 @@
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\bin\Debug\OBJ_ROBOT_ENG.exe.config
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\bin\Debug\OBJ_ROBOT_ENG.exe
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\bin\Debug\OBJ_ROBOT_ENG.pdb
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\obj\Debug\OBJ_ROBOT_ENG.csproj.AssemblyReference.cache
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\obj\Debug\OBJ_ROBOT_ENG.csproj.CoreCompileInputs.cache
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\obj\Debug\OBJ_ROBOT_ENG.exe
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\obj\Debug\OBJ_ROBOT_ENG.pdb
+C:\Users\birod\OneDrive\BA1YQE\C#\OOP\OBJ_ROBOT_ENG\OBJ_ROBOT_ENG\obj\Debug\OBJ_ROBOT_ENG.exe.config
